@@ -1,2 +1,4 @@
 # predicting_survival_rates
-This notebook I created during my participation in the DPhi Bootcamp.
+I created this notebook during my participation in the DPhi Bootcamp.
+
+At first, an exploratory data analysis was performed. Then several baseline models were built, and the best ranked by the F1 score were selected and improved since this was the evaluation criteria for this task.
