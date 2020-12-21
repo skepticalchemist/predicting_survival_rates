@@ -1,4 +1,4 @@
-# predicting_survival_rates
+# Predicting survival rates
 
 During four weeks between June and July 2020, I took part in an online Bootcamp delivered by Dphi. This notebook corresponds to the final assignment (a small Datathon) from this Bootcamp.
 
